@@ -1,4 +1,4 @@
-# ui_spotify_clone
+# ui_music_player
 
 A new Flutter project.
 
